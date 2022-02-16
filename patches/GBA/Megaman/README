@@ -1,0 +1,60 @@
+Here is a list of the EXACT rom to search google for to make the patch work. If you are having trouble getting 
+a patch to work, try using a rom with this exact title. If it still isn't working, you may need to check the hash below.
+
+EACH ONE OF THESE PATCHES HAS BEEN CONFIRMED WORKING
+
+For 4.5 and both of the 6 games, make sure you are using either the Japanese rom, with the patch labeled (J)
+OR the prepatched English translated rom, with the patch labeled (EngPatched) for them. 
+
+*NONE of these 3 games use the USA version, like all the other patches do.*
+
+IF YOU GET AN ERROR WHEN PATCHING, IT IS PROBABLY THE WRONG BASE ROM
+
+You can check the hash for your rom here to verify it is the correct rom:
+https://emn178.github.io/online-tools/sha256_checksum.html
+
+
+
+Here is the list:
+
+MMBN1 - Megaman Battle Network (U).gba
+SHA256 Hash - 87bc7257f2f9ed0acc9f4874177e474e3d339d1e23a0b621d2d8edd73c1a09ed
+
+MMBN2 - Megaman Battle Network 2 (U).gba
+SHA256 Hash - 61a8324c5179f0f8f6b0078aaa1237ea7ac0b3c5a8370c5ba8136c513a22cf2d
+
+MMBN3 Blue - Megaman Battle Network 3 Blue (U).gba
+SHA256 Hash - 8c6767788f99dc9e2af0c9d75513b227c7c42d6d452d6165c8e08850af78e273
+
+MMBN3 White - Megaman Battle Network 3 White (U).gba
+SHA256 Hash - a161aa80e9ee7e07e85bda5d1c93ad3d1415e35aee88380fe117997ebaf6c1c2
+
+MMBN4 Blue Moon - Megaman Battle Network 4 Blue Moon (U).gba
+SHA256 Hash - 63ea187c792f4bfcd077f92c3a509fa09ed422993aee9480c39dfdf6a561c5c1
+
+MMBN4 Red Sun - Megaman Battle Network 4 Red Sun (U).gba
+SHA256 Hash - b04adfca9cae47fc9241e70c88e49b16ee9e75d796ab4ee90940401a6c1d5514
+
+MMBN4.5 (EngPatched) -  Megaman Battle Network 4.5 Real Operation (USA v1.1a).gba
+SHA256 Hash - a4dce983fbb51d797af39db9244e0894fe6e16abc97b44830c396b7914a3a361
+
+MMBN4.5 (J) - 1604 - Rockman EXE 4.5 Real Operation (J)(Independent).gba
+SHA256 Hash - 588a77da006fb0dca0c8addbcc316d7bd4b1c3a42db24750bcfe17b170ac5ef8
+
+MMBN5 Colonel - Megaman Battle Network 5 Team Colonel (U).gba
+SHA256 Hash - d4b7aefc3918c9f801c84cfd1322c2cdbb9d13c2e3271b3c3f8f9927480f2633
+
+MMBN5 Protoman - Megaman Battle Network 5 Team Protoman (U).gba
+SHA256 Hash - b35f5890f54784c9d90a896dc5ac4831d43acc9f94e8c42816742fcfa6b41a7b
+
+MMBN6 Falzar (EngPatched) - Rockman EXE 6 - Dennoujuu Faltzer (J) [T+Eng1.0_Exeguy11].gba
+SHA256 Hash - 4b4c22ac8192652cbebb9ca7fa4e0f199ad2a36cde78710bd4ef6ac65b9d622c
+
+MMBN6 Falzar (J) - Rockman EXE 6 - Dennoujuu Faltzer (J).gba
+SHA256 Hash - 21300170c404371da5cd0c327c3959c0981cf0af6e6bb9189fec4010fc6258a4
+
+MMBN6 Gregar (EngPatched) - RockMan EXE 6 - Dennoujuu Grega (English Patched).gba
+SHA256 Hash - 075f4060b4375735d8303eb403a2d97c7ed15b8eb2b672714e2e14c648d88e60
+
+MMBN6 Gregar (J) - Rockman EXE 6 - Dennoujuu Grega (J).gba
+SHA256 Hash - fa6808a5c63c2cc09430ec7ad74c6e02f4f35928448e6ff5f8dbdec0795160cf
