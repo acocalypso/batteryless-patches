@@ -11,3 +11,10 @@ For contributions please provide the following:
  - patchfile
 
 It can be zipped and sent by PR.
+
+How to use:
+
+Get the base rom of the game and patch it with the patches in this repository.
+
+You can use Rom Patcher JS
+https://www.marcrobledo.com/RomPatcher.js/
