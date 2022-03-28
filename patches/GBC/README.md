@@ -1,5 +1,5 @@
 Supported Cartridges for Pokemon
-
+```
 Pokemon Gold en\
 AAA/A9
 
@@ -11,7 +11,7 @@ AAA/A9
 
 Pokemon Silver de\
 555/A9
-
+```
 How to check if your cartridge supports that patch:
 
 Open up FlashGBX -> Detect Cartridge -> Details
