@@ -11,6 +11,9 @@ AAA/A9
 
 Pokemon Silver de
 555/A9
+
+Pokemon Crystal en Benn Venn Patched
+AAA,A9
 ```
 How to check if your cartridge supports that patch:
 
