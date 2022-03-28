@@ -9,6 +9,7 @@ For contributions please provide the following:
  - Picture of the Cartridge board
  - Information in txt about the chips
  - patchfile
+ - GBC - method is required see [README](https://github.com/acocalypso/batteryless-patches/blob/main/patches/GBC/README.md)
 
 It can be zipped and sent by PR.
 
