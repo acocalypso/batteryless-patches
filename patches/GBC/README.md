@@ -1,15 +1,15 @@
 Supported Cartridges for Pokemon
 
-Pokemon Gold en
+Pokemon Gold en\
 AAA/A9
 
-Pokemon Gold de
+Pokemon Gold de\
 555/A9
 
-Pokemon Silver en
+Pokemon Silver en\
 AAA/A9
 
-Pokemon Silver de
+Pokemon Silver de\
 555/A9
 
 How to check if your cartridge supports that patch:
