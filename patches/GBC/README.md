@@ -23,3 +23,8 @@ Flash ID Check will provide you the needed information
 [WR   /4AAA/A9] 02 02 7D 7D 00 00 08 08 
 [WR   /7AAA/A9] 02 02 7D 7D 00 00 08 08
 ```
+Here you can see if the method is support.
+
+F.e 
+Pokemon Gold en would work on the cartridge
+Pokemon Gold de would not as the method is 555/A9
