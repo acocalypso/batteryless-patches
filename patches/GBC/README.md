@@ -1,4 +1,4 @@
-Supported Cartridges for Pokemon
+Supported Cartridges
 ```
 Pokemon Gold en
 AAA/A9
