@@ -19,3 +19,7 @@ Get the base rom of the game and patch it with the patches in this repository.
 
 You can use Rom Patcher JS
 https://www.marcrobledo.com/RomPatcher.js/
+
+Join Discord for further information and know how transfer:
+
+https://discord.gg/3wD6KPZs
