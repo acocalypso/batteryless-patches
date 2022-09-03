@@ -22,4 +22,4 @@ https://www.marcrobledo.com/RomPatcher.js/
 
 Join Discord for further information and know how transfer:
 
-https://discord.gg/3wD6KPZs
+https://discord.gg/MPW3V3z6as
