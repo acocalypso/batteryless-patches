@@ -27,4 +27,8 @@ You can use Rom Patcher JS
 <https://www.marcrobledo.com/RomPatcher.js/>
 
 Join Discord for further information and know how transfer:
-<https://discord.gg/MPW3V3z6as>
+
+https://discord.gg/MPW3V3z6as
+
+I don't create the patches, 99% of the patches are ripped from bootlegs.
+If you want some patches added buy the game on a Chinese site and rip the patch.
